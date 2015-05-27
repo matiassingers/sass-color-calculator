@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/matiassingers/sass-color-calculator",
   "dependencies": {
-    "color-delta": "0.3.0",
+    "color-delta": "0.3.1",
     "lodash.reduce": "3.1.2"
   },
   "devDependencies": {

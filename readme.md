@@ -3,6 +3,8 @@
 
 Accepts almost all types of color strings, see [color-delta](https://github.com/matiassingers/color-delta) for more info.
 
+Partially extracted from [Sass Colour Function Calculator](http://razorjam.github.io/sasscolourfunctioncalculator/).
+
 
 ## Install
 

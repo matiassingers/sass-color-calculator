@@ -1,0 +1,35 @@
+{
+  "name": "sass-color-calculator",
+  "version": "0.1.0",
+  "description": "calculate the Sass color functions required to get one color from a base color",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bin": {
+    "sass-color-calculator": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matiassingers/sass-color-calculator"
+  },
+  "author": "Matias Singers <mail@matiassingers.com> (http://mts.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiassingers/sass-color-calculator/issues"
+  },
+  "homepage": "https://github.com/matiassingers/sass-color-calculator",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "mocha": "2.2.5"
+  }
+}

@@ -12,6 +12,17 @@
   "bin": {
     "sass-color-calculator": "cli.js"
   },
+  "keyword": [
+    "sass",
+    "color",
+    "calculate color",
+    "lighten",
+    "darken",
+    "desaturate",
+    "saturate",
+    "adjust-hue",
+    "scss"
+  ],
   "files": [
     "index.js",
     "cli.js"
@@ -27,7 +38,7 @@
   },
   "homepage": "https://github.com/matiassingers/sass-color-calculator",
   "dependencies": {
-    "color-delta": "0.2.0",
+    "color-delta": "0.3.0",
     "lodash.reduce": "3.1.2"
   },
   "devDependencies": {
